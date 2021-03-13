@@ -1,0 +1,8 @@
+{
+    "server":{
+        "host":"localhost",
+        "port":9000,
+        "site":"http://localhost:9000/home",
+        "servicename":"service-a"
+    }
+}

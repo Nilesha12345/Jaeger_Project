@@ -1,0 +1,19 @@
+{
+  "name": "basic_node_server_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Index.js"
+  },
+  "author": "Nilesh",
+  "license": "ISC",
+  "dependencies": {
+    "bent": "^7.3.12",
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "jaeger-client": "^3.18.1",
+    "nodemon": "^2.0.6"
+  }
+}
